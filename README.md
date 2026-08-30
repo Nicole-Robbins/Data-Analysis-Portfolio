@@ -8,11 +8,17 @@ I'm a certified data analyst and project manager living in the DFW Metroplex. Fo
 
 ## Projects
 
-SQL Analysis: 
+### SQL Analysis: Success Factors of Student Performance
 
-Tableau Analysis:
+Using SQL via BigQuery to look for patterns that lead to higher exam scores.
 
-Excel Analysis:
+### Tableau Analysis: Online Course Analysis
+
+Using charts and graphs in Tableau, I looked for patterns across numerous demographics to determine how successful the first Massive Online Open Courses launched by Harvard and MIT in 2012 were.
+
+### Excel Analysis: UK Online Retail Analysis
+
+I scoured a massive online retail csv file using Excel for business recommendations for the future.
 
 ## Check Me Out!
 
